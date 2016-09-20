@@ -10,7 +10,7 @@ Prob 1 Discussion | 2     | 2
 Prob 2 Figure     | 2     | 2
 Prob 2 Discussion | 2     | 1
 
-#### Comments
+### Comments
 
 * No python file
 * horrible code style
